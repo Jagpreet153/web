@@ -1,0 +1,12 @@
+.flex-con{
+    display: flex;
+    gap: 8rem;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
+.heading-shop,.head-shop{
+    padding: 0.5rem 0 0.5rem 0;
+}
+

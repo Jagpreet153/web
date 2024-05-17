@@ -6,7 +6,7 @@ function Handbags() {
         <div className="head-section">
             <div>
                 <div className="nav">
-                    <div>Handbags </div>
+                    <div><h1>Handbags</h1></div> 
                     <div className="flex">
                         <div>
                             <img className="imgh" src={handbag}></img>
