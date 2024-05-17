@@ -1,6 +1,6 @@
 .flex-con{
     display: flex;
-    gap: 8rem;
+    gap: 4rem;
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
@@ -10,3 +10,8 @@
     padding: 0.5rem 0 0.5rem 0;
 }
 
+.img-shop{
+    border-radius: 100%;
+    width: 70%;
+    height: 70%;
+}

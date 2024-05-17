@@ -1,0 +1,22 @@
+.flex-car{
+    display: flex;
+    flex-direction: row; 
+    width: 3rem; 
+}
+
+.cart-button{
+    text-align: center;
+    background-color: #fff;
+    color: #000;
+    width: 12rem;
+}
+.cart-button:hover{
+    background-color: red;
+    color: #fff;
+    
+}
+
+.main-cart{
+     padding-left:8rem;
+}
+
